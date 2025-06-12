@@ -8,6 +8,11 @@
 - 💻 Learning **Advanced DSA**, **Backend Frameworks**, and **Machine Learning**
 - 🛠️ Working on personal and collaborative projects
 - 🧠 Typist by skill, fitness enthusiast by hobby 💪
+-  ### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kumar-39426b29b)  
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moha_106/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan-Kumar-S-26)
 
 ---
 
@@ -63,11 +68,4 @@
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-S-26&theme=dark&show_icons=true&hide=contribs,issues)
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)
-
----
-### 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kumar-39426b29b)  
-[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moha_106/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan-Kumar-S-26)
+![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)(https://leetcode.com/moha_106)
