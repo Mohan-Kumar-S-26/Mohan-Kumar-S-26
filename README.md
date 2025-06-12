@@ -71,9 +71,10 @@
 ---
 
 ### 🏆 Competitive Programming
+
 #LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova)
 
 #Skillrack
 
