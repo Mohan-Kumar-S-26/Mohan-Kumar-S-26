@@ -69,11 +69,14 @@
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-S-26&theme=dark&show_icons=true&hide=contribs,issues)
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)
----
 
 ### 🏆 Competitive Programming
+#LeetCode
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mohan_106?ext=contest&theme=dark)](https://leetcode.com/mohan_106)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)
+
+#Skillrack
+
 [![Skillrack](https://img.shields.io/badge/Skillrack-View_Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/438755/9f8f73d0010f68fb0ca7a6621d8d8ec526057233)
+
 
