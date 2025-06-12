@@ -45,7 +45,7 @@
 <img height="40" src="https://img.icons8.com/color/48/intellij-idea.png"/>
 <img height="40" src="https://img.icons8.com/color/48/eclipse.png"/>
 <img height="40" src="https://img.icons8.com/color/48/git.png"/>
-<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/> Spring Initializr
+<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
 <img height="40" src="https://img.icons8.com/color/48/notion--v1.png"/>
 </p>
 
