@@ -63,7 +63,9 @@
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-S-26&theme=dark&show_icons=true&hide=contribs,issues)
 
 ---
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mohan_106?ext=contest&theme=dark)](https://leetcode.com/mohan_106)
 
+---
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kumar-39426b29b)  
