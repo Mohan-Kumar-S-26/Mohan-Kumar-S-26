@@ -72,11 +72,11 @@
 
 ### 🏆 Competitive Programming
 
-#LeetCode
+####LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova)
 
-#Skillrack
+####Skillrack
 
 [![Skillrack](https://img.shields.io/badge/Skillrack-View_Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white)](http://www.skillrack.com/profile/438755/9f8f73d0010f68fb0ca7a6621d8d8ec526057233)
 
