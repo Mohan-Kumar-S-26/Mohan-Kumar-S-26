@@ -1,16 +1,71 @@
-## Hi there 👋
+## 👋 Hey there! I'm Mohan Kumar S
 
-<!--
-**Mohan-Kumar-S-26/Mohan-Kumar-S-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 3rd Year B.E - CSE @ RMK College of Engineering and Technology  
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-Here are some ideas to get you started:
+- 💡 Passionate about software development and real-world problem-solving  
+- 🔭 Currently building my [portfolio](#) — launching soon!
+- 💻 Learning **Advanced DSA**, **Backend Frameworks**, and **Machine Learning**
+- 🛠️ Working on personal and collaborative projects
+- 🧠 Typist by skill, fitness enthusiast by hobby 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+#### Languages & Frameworks
+<p>
+<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img height="40" src="https://img.icons8.com/color/48/c-programming.png"/>
+<img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img height="40" src="https://img.icons8.com/color/48/python.png"/>
+<img height="40" src="https://img.icons8.com/color/48/sql.png"/>
+<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/>
+<img height="40" src="https://img.icons8.com/color/48/react-native.png"/>
+<img height="40" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="40" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="40" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="40" src="https://img.icons8.com/color/48/docker.png"/>
+</p>
+
+---
+
+### 🚀 Currently Learning
+- 🔁 Advanced DSA & Problem Solving  
+- 🧠 Backend with **Spring Boot**, **REST APIs**, **Docker**  
+- 🤖 Machine Learning basics and practical use-cases  
+- 📦 Full-stack project development & deployment  
+
+---
+
+### 🧰 Tools I Use
+<p>
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="40" src="https://img.icons8.com/color/48/pycharm.png"/>
+<img height="40" src="https://img.icons8.com/color/48/intellij-idea.png"/>
+<img height="40" src="https://img.icons8.com/color/48/eclipse.png"/>
+<img height="40" src="https://img.icons8.com/color/48/git.png"/>
+<img height="40" src="https://img.icons8.com/color/48/spring-logo.png"/> Spring Initializr
+<img height="40" src="https://img.icons8.com/color/48/notion--v1.png"/>
+</p>
+
+---
+
+### 💻 Workspace Spec
+<img height="30" src="https://img.shields.io/badge/HP-Victus_15-1f75fe?style=for-the-badge&logo=hp&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="30" src="https://img.shields.io/badge/Intel-Core_i5_12450H-blue?style=for-the-badge&logo=intel&logoColor=white"/>
+
+---
+
+### 📊 GitHub Stats
+
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-S-26&theme=dark&show_icons=true&hide=contribs,issues)
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kumar-39426b29b)  
+[![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moha_106/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohan-Kumar-S-26)
