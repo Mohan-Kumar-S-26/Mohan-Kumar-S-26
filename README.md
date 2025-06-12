@@ -68,4 +68,4 @@
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohan-Kumar-S-26&theme=dark&show_icons=true&hide=contribs,issues)
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)(https://leetcode.com/moha_106)
+![LeetCode Stats](https://leetcard.jacoblin.cool/moha_106?theme=dark&font=Podkova&ext=contest)
